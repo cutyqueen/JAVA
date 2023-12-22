@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1211"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1207"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1205"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1128"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1120"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1115"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1114"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1108"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1106"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1101"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1031"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1025"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1024"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1017"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1011"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1010"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA1005"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0926"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0919"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0918"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0912"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0911"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0906"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0905"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0830"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0829"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0823"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0822"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0817"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0816"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0808"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0802"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0801"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0726"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0725"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0720"/>
+			<item value="C:\Users\ITWILL\Desktop\workspace_java7\JAVA0719"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="198"/>
+		<item key="DIALOG_Y_ORIGIN" value="246"/>
+	</section>
+</section>
